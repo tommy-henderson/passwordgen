@@ -12,7 +12,7 @@ N/A
 
 After clicking the "generate password" button, you will be asked to select whether you want lower cases, upper cases, numbers, and special characters in your password. Then you will be prompted to specify the length you'd like your password to be. Then the app will automatically generate a random password to those specifications. 
 
-![Password Generator in use](<../Develop/Screenshot 2023-08-10 at 12.50.40 PM.png>)
+![Password Generator in Use](<assets/Screenshot 2023-08-10 at 12.50.40 PM.png>)
 
 ## Credits
 
