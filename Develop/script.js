@@ -36,6 +36,12 @@ function generatePassword() {
     newArray.push(specials) 
   }
 
+  // Will validate to make sure user selects at least one character type. If not, will alert user and reload the page. 
+  if ((!lowerCaseInput) && (!upperCaseInput) && (!numbersInput) && (!specialsInput)) {
+    alert("Please select at least one character type")
+    location.reload()
+  }
+
   // This will concatenate the arrays into one big array instead of 4 seperate arrays
   flatNewArray = newArray.flat()
 
