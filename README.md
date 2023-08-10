@@ -4,6 +4,8 @@
 
 Application that will automatically generate a random password between 8 and 128 characters for user. 
 
+[Password Generator](https://tommy-henderson.github.io/passwordgen/)
+
 ## Installation
 
 N/A
